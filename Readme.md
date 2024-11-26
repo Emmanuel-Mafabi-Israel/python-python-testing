@@ -30,6 +30,7 @@ Conducting the various types of testing.
 
 ## Usage
 
-To run the application, execute the following command:
+To run the tests, execute the following command:
 ```sh
-python lib/app.py
+pytest
+```
